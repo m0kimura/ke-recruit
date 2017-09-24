@@ -1,0 +1,24 @@
+{
+  "name": "ke-recruit",
+  "description": "Kmrweb.net recruit ai api",
+  "keywords": [
+    "ke-recruit"
+  ],
+  "homepage": "http://www.kmrweb.net/server/index.html",
+  "license": "MIT",
+  "version": "1.0.1",
+  "author": {
+    "name": "michihiro kimura",
+    "email": "kimura@kmrweb.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.org/m0kimura/ke-recruit.git"
+  },
+  "dependencies": {
+  },
+  "engines": {
+    "node": ">=0.5.2"
+  },
+  "main": "./ke-recruit.js"
+}
